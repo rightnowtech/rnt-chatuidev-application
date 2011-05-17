@@ -8,11 +8,18 @@ Our mission is to Rid the World of Bad Experiences.  Our cloud-based customer ex
 
 About the Job
 -------------
-**Position:** Innovative and Experienced Web Developer (see [full job description](http://tbe.taleo.net/NA8/ats/careers/requisition.jsp?org=RIGHTNOW&cws=1&rid=1284))
+**Position:** Innovative and Experienced Web Developer (see [full job description](http://tbe.taleo.net/NA8/ats/careers/requisition.jsp?org=RIGHTNOW&cws=1&rid=1349))
 
 **Location:** Either [Boulder, CO](http://www.bouldercolorado.gov/index.php?option=com_content&task=view&id=3226&Itemid=1059) or [Bozeman, MT](http://www.montana.edu/wwwpy/photos.htm)
 
-This is an opportunity to work with an agile team of creative individuals who are involved in cutting edge cloud technology within a successful, fast growing company.  We're looking for web developers who know web technologies inside and out and write clean, well-designed, readable and elegant code.  We are looking for creative problem solvers who will help to architect and build software with a huge impact on people around the world.  If you are a rock star web developer who likes playing with new technologies, collaborating with smart people, and working in a fun environment at a passionate company, then this job is for you.  Plus we offer great benefits.
+How would you like to join a team of software professionals in building out an industry leading real-time communications tool? The RightNow Chat product within the CX suite provides organizations and their customers the opportunity to communicate in the most natural way possible in the "social media" age, online chat. The team is working to create a product that is ultra-fast, highly scalable, super reliable, and ultimately a user experience that people love.
+
+If you love to solve difficult, complex problems, if you enjoy the process of creating a great user experience, if you have great ideas and the drive to see them through from start to finish, if you are passionate about writing high-quality easily understood code then we want you.
+
+if ($you === ‘I like being bored’)
+{
+    exit(42);
+}
 
 Submitting
 ----------
