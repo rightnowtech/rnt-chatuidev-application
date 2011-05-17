@@ -12,7 +12,11 @@ About the Job
 
 **Location:** Either [Boulder, CO](http://www.bouldercolorado.gov/index.php?option=com_content&task=view&id=3226&Itemid=1059) or [Bozeman, MT](http://www.montana.edu/wwwpy/photos.htm)
 
+<<<<<<< HEAD
 How would you like to join a team of software professionals in building out an industry leading real-time communications tool? The RightNow Chat product within the CX suite provides organizations and their customers the opportunity to communicate in the most natural way possible in the "social media" age, online chat. The team is working to create a product that is ultra-fast, highly scalable, super reliable, and ultimately a user experience that people love.
+=======
+How would you like to join a team of software professionals in building out an industry leading real-time communications tool? The RightNow Chat product within the CX suite provides organizations and their customers the opportunity to communicate in the most natural way possible in the “social media” age, online chat. The team is working to create a product that is ultra-fast, highly scalable, super reliable, and ultimately a user experience that people love.
+>>>>>>> a1cc12aaf412338a039310381ea798c98a23169a
 
 If you love to solve difficult, complex problems, if you enjoy the process of creating a great user experience, if you have great ideas and the drive to see them through from start to finish, if you are passionate about writing high-quality easily understood code then we want you.
 
