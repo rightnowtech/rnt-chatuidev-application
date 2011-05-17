@@ -16,7 +16,7 @@ How would you like to join a team of software professionals in building out an i
 
 If you love to solve difficult, complex problems, if you enjoy the process of creating a great user experience, if you have great ideas and the drive to see them through from start to finish, if you are passionate about writing high-quality easily understood code then we want you.
 
-if ($you === ‘I like being bored’)
+if ($you === 'I like being bored')
 {
     exit(42);
 }
